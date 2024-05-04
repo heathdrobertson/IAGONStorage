@@ -14,7 +14,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-destination: docs/
+destination: site/
 
 keep_files:
   - CNAME
