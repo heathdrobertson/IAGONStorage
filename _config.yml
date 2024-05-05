@@ -1,4 +1,4 @@
-title: Red Hills Iagon
+title: Red Hills - Iagon Storage Node
 email: info@rockinghat.com
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -18,5 +18,3 @@ destination: docs/
 
 keep_files:
   - CNAME
-
-github: [metadata]
