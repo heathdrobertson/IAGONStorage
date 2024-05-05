@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 domain: "redhills.rockinghat.com"
 url: "https://redhills.rockinghat.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RockingHatLLC
-github_username:  rockinghat
+github_username: rockinghat
 
 # Build settings
 theme: minima
@@ -14,7 +14,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-destination: site/
+destination: docs/
 
 keep_files:
   - CNAME
+
+github: [metadata]
